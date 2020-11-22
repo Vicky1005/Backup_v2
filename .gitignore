@@ -1,0 +1,7 @@
+.idea/
+.db/
+.log/
+.allure/
+*.iml
+target/
+bin/
